@@ -1,0 +1,7 @@
+streamlit==1.28.0
+openai==0.28.0
+python-dotenv==1.0.0
+openrouter==1.0.0
+gspread==5.9.0
+oauth2client==4.1.3
+pandas==2.0.3
